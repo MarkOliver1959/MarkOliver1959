@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarkOliver1959
+- 👋 Hi, I’m @MarkOliver1959, been working in Embedded since Space Invaders. 
 - 👀 I’m interested in ESP32, STM32xxx RPI, anything embedded, IOT home automation, robotics etc..
-- 🌱 I’m currently learning ESP32.  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AHRS & IMU & Quaternions.  
+- 💞️ I’m looking to collaborate on anything Python, C++...
 - 📫 How to reach me ...
 
 <!---
