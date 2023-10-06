@@ -1,7 +1,7 @@
-- 👋 Been working in Embedded since Space Invaders. 
+- 👋 Been working in Embedded since Space Invaders when Z-80 assembler was king. 
 - 👀 Interested in ESP32, STM32xxx RPI, anything embedded, IOT home automation, robotics etc..
-- 🌱 Currently learning AHRS & IMU & Quaternions.  
-- 💞️ Will collaborate on anything Embedded or Python or C/C++
+- 🌱 Currently learning AHRS & IMU & Quaternions.
+- 💞️ Will collaborate on anything Embedded C/C++ or Python
 
 
 <!---
